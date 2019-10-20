@@ -1,0 +1,15 @@
+.\obj\os_prio.o: ..\..\..\..\..\Software\uCOS-III\Source\os_prio.c
+.\obj\os_prio.o: ..\..\..\..\..\Software\uCOS-III\Source\os.h
+.\obj\os_prio.o: ..\os_cfg.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-CPU\cpu_core.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-CPU\cpu_def.h
+.\obj\os_prio.o: ..\cpu_cfg.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-LIB\lib_def.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-LIB\lib_mem.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-CPU\cpu_core.h
+.\obj\os_prio.o: ..\lib_cfg.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-LIB\lib_str.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uC-LIB\lib_ascii.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uCOS-III\Source\os_type.h
+.\obj\os_prio.o: ..\..\..\..\..\Software\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu.h
